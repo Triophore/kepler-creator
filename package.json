@@ -1,0 +1,29 @@
+{
+  "name": "kepler-creator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Triophore/kepler-creator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Triophore/kepler-creator/issues"
+  },
+  "homepage": "https://github.com/Triophore/kepler-creator#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.1",
+    "cli-progress": "^3.9.0",
+    "nodejs-file-downloader": "^4.5.3",
+    "progress-extract": "^1.0.2",
+    "prompts": "^2.4.1"
+  }
+}
